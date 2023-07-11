@@ -4,4 +4,6 @@ A MERN Stack website created to help individuals, specifically students, to mana
 ---
 
 :
-[![image](https://github.com/Harsh-IT11/BudgetPlanner/assets/63728926/a7c04eba-8883-43a5-8379-bf495facf988)](https://www.youtube.com/watch?v=zbCn6qitHYA)
+
+
+[![image](https://img.youtube.com/vi/zbCn6qitHYA/0.jpg)](https://www.youtube.com/watch?v=zbCn6qitHYA)
